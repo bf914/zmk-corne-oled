@@ -42,7 +42,7 @@ layers:
   - {t: ',', h: Fn, s: <}
   - {t: ., h: '5', s: '>'}
   - {t: /, s: '?'}
-  - {t: setup, h: toggle}
+  - {t: SET, h: toggle}
   - {t: '$$mdi:keyboard-esc$$', h: '$$mdi:apple-keyboard-control$$'}
   - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:keyboard-space$$', h: NUM&SYMB}
@@ -196,7 +196,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  setup:
+  SET:
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
