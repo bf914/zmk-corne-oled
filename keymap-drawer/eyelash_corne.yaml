@@ -149,11 +149,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   Fn:
   - {t: '$$mdi:transfer$$', type: trans}
-  - F1
-  - F2
-  - F3
-  - F4
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F9
+  - F10
+  - F11
+  - F12
+  - F13
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -177,10 +177,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - F9
-  - F10
-  - F11
-  - F12
+  - F1
+  - F2
+  - F3
+  - F4
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
@@ -291,7 +291,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Ctl+$$mdi:keyboard-space$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
